@@ -20,21 +20,6 @@
 
 <source src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.mp4?raw=true" type="video/mp4">  
 
-<!--〜〜〜
-用Triple Tildes制成的盒子 （去掉波浪号之间的空隙以使这项工作有效）
-〜〜〜
-
-::: warning
-*here be dragons*
-:::
-
-
-〜〜〜
-用Triple Tildes制成的盒子 （去掉波浪号之间的空隙以使这项工作有效）
-〜〜〜
-
-
--->
 
 
 <!--这是markdown 引用视频方式但是github不支持
