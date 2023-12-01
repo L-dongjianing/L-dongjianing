@@ -17,6 +17,7 @@
 <div align="center">
 <span><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="20%"></span>
 </div>
+
 <span><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true"></span>
 <div>
 <p><strong>&emsp;&emsp; <a href="https://heartyang520.github.io/Galaxy-Network-Interactive-Desktop">  Click to get ❤️® </a> </strong>
