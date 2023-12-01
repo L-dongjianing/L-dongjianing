@@ -3,6 +3,7 @@
 <br />
 <br />
 
+<div align="center">
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Vue/Python.
@@ -10,7 +11,7 @@
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/zxc11445599)
   
 <!-- 访问数据-鸭鸭-->
-<div align="center">
+
 
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="20%">
 </div>
