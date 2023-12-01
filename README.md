@@ -4,11 +4,7 @@
 <br />
 
 <div align="center">
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Vue/Python.
-- 📫 How to reach me: Z2281102662@163.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/zxc11445599)
+
   
 <!-- 访问数据-鸭鸭-->
 
