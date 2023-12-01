@@ -25,6 +25,5 @@
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_b.gif?raw=true">
-<details>
 
 
