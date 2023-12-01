@@ -20,8 +20,6 @@
 
 <source src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.mp4?raw=true" type="video/mp4">  
 
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.gif?raw=true"
-
 <!--Line跑码线-->
 
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
