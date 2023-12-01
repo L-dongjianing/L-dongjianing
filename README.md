@@ -3,7 +3,11 @@
 <br />
 <br />
 
-<h3>Hello Word~</h3>
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Vue/Python.
+- 📫 How to reach me: Z2281102662@163.com
+- 😄 Read more about my CSDN: [here](https://blog.csdn.net/zxc11445599)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/L-dongjianing)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](Z2281102662@163.com)
@@ -22,22 +26,6 @@
 <h2>✒️主页访问量：</h2>
 
 ![Visitor Count](https://profile-counter.glitch.me/L-dongjianing/count.svg)
-
-### Hi there 👋,I'm zhe.
-
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: wisdom_zhe@qq.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
-
-![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
-
-### My Skill Set
-
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
