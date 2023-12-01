@@ -16,7 +16,7 @@
 - 📫 How to reach me: Z2281102662@163.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/zxc11445599)<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="20%">
 </div>
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true">
+<span><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true"></span>
 <div>
 <p><strong>&emsp;&emsp; <a href="https://heartyang520.github.io/Galaxy-Network-Interactive-Desktop">  Click to get ❤️® </a> </strong>
 </div>
