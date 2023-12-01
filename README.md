@@ -18,9 +18,8 @@
 <span><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="20%"></span>
 </div>
 
-<div>
-<p><strong>&emsp;&emsp; <a href="https://heartyang520.github.io/Galaxy-Network-Interactive-Desktop">  Click to get ❤️® </a> </strong>
-</div>
+<source src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.mp4?raw=true" type="video/mp4">  
+
 <details>
     <summary>
         <h2>Share QR</h2>
