@@ -19,6 +19,8 @@
   </tr>
 </table>
 
+<h2>✒️主页访问量：</h2>
+
 ![Visitor Count](https://profile-counter.glitch.me/L-dongjianing/count.svg)
 
 
