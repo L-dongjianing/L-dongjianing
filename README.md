@@ -20,41 +20,7 @@
 
 <source src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.mp4?raw=true" type="video/mp4">  
 
-
-
-<!--这是markdown 引用视频方式但是github不支持
-<video width="100%" height="100%" controls autoplay muted>
-<source src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.mp4?raw=true" type="video/mp4">  
--->
-<!--这是视频播放地址  github不支持播放视频
-<video src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/Vlog_a.mp4">  
--->
-<!--这是视频直接下载链接  github不支持播放视频
-<video src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.mp4?raw=true">
--->
-<!--链接跳转方式播放视频
-![观看这个视频](https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/Vlog_a.mp4)
--->
-
-<!--嵌套中放入一张类似视频播放界面的图片诱导用户点击跳转链接从而播放视频，当然这不是一个正确的方式
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/Vlog_a.mp4)
--->
-
-
-<!--github不支持外部视频链接或者存储库视频直接调用,所以采用Readmi文件浏览生成的实时视频链接 多个视频展示留空一行>
--->
-
-<!--添加视频注意,mp4格式最大10M,需要极致压缩,一般短视频平台下载的就行,需要剪辑视频片段可使用小米相册再使用微信传输(自动压缩)减小文件大小-->
-
-
-<!--资源更新地址<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/XXXX.gif?raw=true>
--->
-<H2>Favorite❤️Movie</H2>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.gif?raw=true"
-
-<details>
-https://github.com/heartyang520/heartyang520/assets/51397676/31669bd8-ba37-4c64-8f64-3c40633c4072
-</details>
 
 <!--Line跑码线-->
 
